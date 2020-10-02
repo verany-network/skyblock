@@ -1,0 +1,54 @@
+name: Verany-SkyBlock
+authors: [SlashKick, tylix]
+version: 1.0.0
+main: net.verany.skyblock.SkyBlock
+api-version: 1.15
+
+commands:
+  skyblock:
+    aliases:
+      - sb
+  schematic:
+    aliases:
+      - schem
+  heal:
+  fly:
+  gems:
+  pay:
+  enderchest:
+    aliases:
+      - ec
+  tpa:
+  tpaccept:
+  tpadeny:
+  developer:
+    aliases:
+      - devs
+  food:
+    aliases:
+      - feed
+  fixall:
+    aliases:
+      - repairall
+  fix:
+    aliases:
+      - repair
+  invsee:
+  viewarmor:
+    aliases:
+      - va
+  spawn:
+  kits:
+    aliases:
+      - kit
+  head:
+    aliases:
+      - skull
+  updates:
+    aliases:
+      - update
+
+depend:
+  - Verany-CoreSystem
+loadbefore:
+  - Verany-CoreSystem
