@@ -29,7 +29,7 @@ Um das Projekt auf eurem Stand überhaupt online zu bekommen müsst ihr jetzt no
 
 ---
 ## Branches:
-* `production`: Produktionsbuild (Wird automatisch auf die entsprechenden Dienste deployed)
+* `production`: Produktionsbuild (Wird automatisch auf die entsprechenden Dienste geladen)
 * `release/*`: Release Builds (z.B. `release/2021.7.4`, eine stabil laufende Version benannt nach dem Zeitpunkt)
 * `feature/*`: Feature Update Branch (z.B. `feature/stats-update`, für große Updates)
 * `dev/*`: Developer spezifischer Branch (z.B. `dev/nicokempe`, für kleine Änderungen und nur temporär ausgelegt)
